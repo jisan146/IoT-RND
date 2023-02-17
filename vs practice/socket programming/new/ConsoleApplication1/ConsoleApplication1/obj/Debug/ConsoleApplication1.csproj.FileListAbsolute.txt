@@ -1,0 +1,5 @@
+C:\Users\Jisan\Desktop\vs practice\socket programming\new\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jisan\Desktop\vs practice\socket programming\new\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jisan\Desktop\vs practice\socket programming\new\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jisan\Desktop\vs practice\socket programming\new\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Jisan\Desktop\vs practice\socket programming\new\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

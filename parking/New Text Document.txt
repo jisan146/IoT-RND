@@ -1,0 +1,2 @@
+expdp ssp/ssp  schemas=DEMO directory=TEST_DIR dumpfile=DEMO.dmp
+expdp ssp/ssp  schemas=SSP directory=TEST_DIR dumpfile=SSP.dmp

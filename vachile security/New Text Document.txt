@@ -1,0 +1,2 @@
+expdp ssp/ssp  schemas=SSP directory=TEST_DIR dumpfile=new.dmp encryption=all encryption_mode=password encryption_password=test encryption_algorithm=aes256
+impdp ssp/ssp   directory=TEST_DIR dumpfile=28_SEP_17_06_20_19_PM.DMP encryption_password=test

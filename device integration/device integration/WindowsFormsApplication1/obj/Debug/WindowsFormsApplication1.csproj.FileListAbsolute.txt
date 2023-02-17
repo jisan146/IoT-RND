@@ -1,0 +1,42 @@
+C:\Users\jisan\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jisan\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jisan\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jisan\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jisan\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jisan\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\jisan\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jisan\Desktop\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+C:\Users\jisan\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\drive\device\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\drive\device\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\drive\device\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\drive\device\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\drive\device\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\drive\device\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\drive\device\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\drive\device\device integration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\drive\device\device integration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\drive\device\device integration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\drive\device\device integration\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\drive\device\device integration\WindowsFormsApplication1\bin\Debug\Oracle.Web.dll
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jisan\Desktop\device integration\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
