@@ -1,5 +1,5 @@
 # IoT RND
-This a sample of my IoT based RND.
+This is a sample of my IoT based RND.
 
 ## For More 
 Please Visit Demo Folder.
